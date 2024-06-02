@@ -1,3 +1,3 @@
-# Warehouse Planning
+# OPTIMIZATION : Warehouse Planning
 
-從最底層開始設計與實現
+從最底層開始設計方法、架構、與實現
