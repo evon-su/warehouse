@@ -1,10 +1,10 @@
-# OPTIMIZATION : Warehouse Planning
+# Warehouse Planning
 從最底層開始設計方法、架構、與實現
 
 ### 功能
 貨物安排貨倉之規劃，且符合限制條件
 
 ### 運算時間
-此為演算法中的銷售旅行員(TSP)題目，複雜度正常為成指數型成長。但本演算法設計，複雜度為O(n)
+時間複雜度為O(n)
 
 
