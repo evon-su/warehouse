@@ -175,8 +175,6 @@ class ArrangeWarehouse:
             return True
 
         self.count += 1
-        if self.count > 10000:
-            return False
 
     def loop(self, avail_ware_ls, container, func, used, dic, repeat_ls):
         def fn(i, idxs):
